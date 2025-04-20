@@ -1,0 +1,11 @@
+In deloitte internship I have competed a task-
+Using a data unification algorithm, the tech team at our client, Daikibo, has converted all telemetry data collected from its 4 factories:
+Daikibo Factory Meiyo (Tokyo, Japan)
+Daikibo Factory Seiko (Osaka, Japan)
+Daikibo Berlin (Berlin, Germany)
+Daikibo Shenzhen (Shenzhen, China)
+The reason the client wanted to collect telemetry was to answer 2 questions:
+In which location did machines break the most?
+What are the machines that broke most often in that location?
+Here I Create a Dashboard with sheets and set the chart to be used as a filter (selecting a factory in the first chart shows only the down time of the machines in this factory in the second chart).
+These are the screenshots of dashboard and uploaded it as a submission for this task.
