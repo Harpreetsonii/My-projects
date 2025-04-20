@@ -1,2 +1,2 @@
 # My-projects
-It include my projects
+This is my repository
